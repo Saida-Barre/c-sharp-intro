@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sbarr\\Downloads\\c-sharp-intro\\c-sharp-intro.csproj",
+      "projectUniqueName": "C:\\Users\\sbarr\\Documents\\Projects\\c-sharp-intro\\c-sharp-intro.csproj",
       "projectName": "c-sharp-intro",
-      "projectPath": "C:\\Users\\sbarr\\Downloads\\c-sharp-intro\\c-sharp-intro.csproj",
+      "projectPath": "C:\\Users\\sbarr\\Documents\\Projects\\c-sharp-intro\\c-sharp-intro.csproj",
       "packagesPath": "C:\\Users\\sbarr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sbarr\\Downloads\\c-sharp-intro\\obj\\",
+      "outputPath": "C:\\Users\\sbarr\\Documents\\Projects\\c-sharp-intro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sbarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
